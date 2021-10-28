@@ -31,4 +31,3 @@ Once you are inside ``` Flask_CRUD ``` you can run the command ``` python app.py
 
 
 
-In collaboration with Emilio4585
